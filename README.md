@@ -1,6 +1,6 @@
 ### Exercise: Loops in Javascript
 
-Given are three files.
+Given are four files.
 
 Each one contains an exercise for using loops in Javascript.
 
