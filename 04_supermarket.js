@@ -27,10 +27,10 @@ shopping_cart = [["bananas", 2], ["milk", 3]]
 
 // 3. Task: Money must be funny!
 
-// You need to keep track of the prices.
+// You need to keep track of your income.
 // Create a new object called 'prices' that contains information about your prices
 // The object should have the product items as the NAMES...
-// ...and the price of the items as the VALUES
+// ...and the prices of the items as the VALUES
 
 // The prices of your items are the following:
 // bananas: 0.3
