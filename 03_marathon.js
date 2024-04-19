@@ -1,4 +1,4 @@
-// 3. Task: Marathon Winners
+// 1. Task: Marathon Winners
 
 // Given is an array called 'winners' with information about female NYC marathon winner
 // Each entry in the array is another array in the form: [YEAR, NAME, COUNTRY, TIME]
@@ -23,3 +23,13 @@ const country = "United States";
 // Log the winner names AND corresponding years from the country in the console
 
 // YOUR SOLUTION //
+// ... //
+
+// 2. Task: Function
+
+// Write a function that takes on argument: a string representing the name of a country
+// The function does the same as the loop above:
+// It logs the winner names AND corresponding years from the country in the console
+
+// YOUR SOLUTION //
+// ... //
